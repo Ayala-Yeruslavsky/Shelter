@@ -10,3 +10,8 @@ ul {
     color: darkred;
     font-size: large;
 }
+
+.home-image {
+    border:1px solid black;
+    width: 250px;
+}
